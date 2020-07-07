@@ -103,4 +103,8 @@ footer {
     flex: 3;
   }
 
+  form {
+    flex-direction: column;
+  }
+
 }
